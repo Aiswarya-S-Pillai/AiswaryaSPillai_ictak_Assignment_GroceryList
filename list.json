@@ -1,0 +1,88 @@
+{
+    "list":[
+        {
+            "slno":"1",
+            "item":"Rice",
+            "quantity":"5",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Boiled Rice"
+
+            
+        },
+        {
+            "slno":"2",
+            "item":"Soap",
+            "quantity":"2",
+            "unit":"Pack",
+            "department":"Stationery",
+            "notes":"Beauty products"
+          
+        },
+        {
+            "slno":"3",
+            "item":"Apple",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Fruit"
+        },
+        {
+            "slno":"4",
+            "item":"Milk",
+            "quantity":"1",
+            "unit":"Pack",
+            "department":"Food",
+            "notes":"Dairy"
+        },
+        {
+            "slno":"5",
+            "item":"Carrots",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Vegetables"
+        },
+        {
+            "slno":"6",
+            "item":"Flour",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Baking"
+        },
+        {
+            "slno":"7",
+            "item":"Cookies",
+            "quantity":"1",
+            "unit":"Pack",
+            "department":"Food",
+            "notes":"Snacks"
+        },
+        {
+            "slno":"8",
+            "item":"Cream",
+            "quantity":"1",
+            "unit":"Pack",
+            "department":"Stationery",
+            "notes":"Beauty Product"
+        },
+        {
+            "slno":"9",
+            "item":"Onions",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Vegetables"
+           
+        },
+        {
+            "slno":"10",
+            "item":"Beef",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Meat"
+        }
+    ]
+}
